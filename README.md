@@ -52,11 +52,11 @@ The helix was wound around the PVC support and mounted over a metallic ground pl
 
 The antenna was simulated using **CST Studio Suite** and **Antenna Magus** in order to estimate its input reflection coefficient and far-field radiation pattern.
 
-![CST model](assets/cst_model.png)
+![CST model](Assets/cst_model.png)
 
 The simulated far-field results showed a directional radiation pattern with a main lobe centered around 0°.
 
-![Radiation pattern](assets/radiation_pattern_3d.png)
+![Radiation pattern](Assets/radiation_pattern_3d.png)
 
 Main simulated results:
 
@@ -72,13 +72,13 @@ Main simulated results:
 
 The antenna was characterized using a **Vector Network Analyzer** to evaluate the reflection coefficient.
 
-![VNA S11 measurement](assets/s11_vna_measurement.png)
+![VNA S11 measurement](Assets/s11_vna_measurement.png)
 
 The measured S11 showed a main minimum around **2.1 GHz**, with secondary dips between **2.3 GHz and 2.9 GHz**. At 2.4 GHz, the measured S11 was approximately **-7.2 dB**.
 
 The antenna was also connected to a spectrum analyzer to verify reception of a Bluetooth signal.
 
-![Bluetooth spectrum measurement](assets/bluetooth_spectrum_measurement.png)
+![Bluetooth spectrum measurement](Assets/bluetooth_spectrum_measurement.png)
 
 A received signal peak was observed around **2.46 GHz**, with a measured power of approximately **-12.27 dBm**, confirming that the prototype was able to receive signals within the target band.
 
