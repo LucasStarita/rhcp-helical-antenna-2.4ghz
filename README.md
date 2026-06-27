@@ -46,7 +46,7 @@ The prototype was built using low-cost and easily available materials:
 
 The helix was wound around the PVC support and mounted over a metallic ground plane. A λ/4 matching section was implemented to improve impedance matching with the 50 Ω measurement system.
 
-![Antenna prototype](assets/antenna_prototype.jpg)
+![Antenna prototype](assets/antenna_prototype.png)
 
 ## Electromagnetic Simulation
 
